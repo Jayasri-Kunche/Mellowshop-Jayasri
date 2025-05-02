@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mellow Shop - E-Commerce Frontend
 
 A fully functional e-commerce frontend built with Next.js 14, React, TypeScript, and Tailwind CSS, inspired by the Mellow theme.
@@ -103,3 +104,6 @@ npm start
 ## License
 
 This project is licensed under the MIT License.
+md
+# Mellowshop-Jayasri
+
